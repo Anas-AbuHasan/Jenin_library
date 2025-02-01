@@ -1,0 +1,37 @@
+html {
+    font-size: 14px;
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    margin-bottom: 60px;
+}
+
+.main-nav {
+    background-color: cyan;
+}
+
+.navbar {
+    background-color: #208454 !important;
+}
+
+img {
+    left: 79%;
+    width: 200px;
+    bottom: 13em;
+    height: 200px;
+}
+
+table, td, th, tr {
+    background-color: rgb(241, 228, 195) !important;
+}
